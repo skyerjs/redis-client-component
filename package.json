@@ -1,5 +1,5 @@
 {
-  "name": "redis-client-component",
+  "name": "skyer-redis-client-component",
   "version": "0.1.1",
   "description": "Skyer redis client component",
   "main": "index.js",
