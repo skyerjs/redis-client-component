@@ -36,7 +36,8 @@ hello!
 
 ## Options
 
-todo
+See `ioredis` options (https://github.com/luin/ioredis/blob/master/API.md#new-redisport-host-options)
+
 
 ## Licences
 
