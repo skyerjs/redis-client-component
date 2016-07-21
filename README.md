@@ -36,8 +36,11 @@ hello!
 
 ## Options
 
-See `ioredis` options (https://github.com/luin/ioredis/blob/master/API.md#new-redisport-host-options)
+See `ioredis` options [ioredis](https://github.com/luin/ioredis/blob/master/API.md#new-redisport-host-options)
 
+## Example
+
+See [skyer-example](https://github.com/skyerjs/skyer-example)
 
 ## Licences
 
